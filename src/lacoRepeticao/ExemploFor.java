@@ -1,4 +1,4 @@
-package lacoRepetical;
+package lacoRepeticao;
 
 import java.util.Scanner;
 
@@ -17,6 +17,8 @@ public class ExemploFor {
 			System.out.println("O " + contador + "º nome é: " + nome + "\n");
 
 		}
+
+		leia.close();
 
 	}
 

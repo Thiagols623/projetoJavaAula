@@ -1,4 +1,4 @@
-package lacoRepetical;
+package lacoRepeticao;
 
 import java.util.Scanner;
 
@@ -18,5 +18,6 @@ public class ExemploDoWhile {
 
 		} while (contador <= 2);
 	}
+	
 
 }

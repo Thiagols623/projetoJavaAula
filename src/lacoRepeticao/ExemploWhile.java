@@ -1,4 +1,4 @@
-package lacoRepetical;
+package lacoRepeticao;
 
 import java.util.Scanner;
 
