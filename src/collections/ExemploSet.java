@@ -35,7 +35,7 @@ public class ExemploSet {
 
 				Iterator<String> isetFrutas = setFrutas.iterator();
 
-				while (isetFrutas.hasNext()) {
+				while (isetFrutas.hasNext()) {  // tem um proximo?
 					System.out.println(isetFrutas.next());
 				}
 
